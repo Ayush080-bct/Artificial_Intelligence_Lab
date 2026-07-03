@@ -72,3 +72,5 @@ venv.bak/
 *.swp
 *.swo
 .DS_Store
+
+data/bbc_news_dataset.csv:Zone.Identifier
