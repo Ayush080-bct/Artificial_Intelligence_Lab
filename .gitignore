@@ -74,3 +74,8 @@ venv.bak/
 .DS_Store
 
 data/bbc_news_dataset.csv:Zone.Identifier
+
+Day6/data
+Day6/data/.DS_Store:Zone.Identifier
+
+data/
