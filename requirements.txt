@@ -1,4 +1,6 @@
 asttokens @ file:///home/task_177313474099879/croot/asttokens_1773135628875/work
+certifi==2026.7.22
+charset-normalizer==3.4.9
 comm @ file:///home/task_176311912799921/conda-bld/comm_1763119155507/work
 contourpy @ file:///home/task_176364362873675/conda-bld/contourpy_1763643921742/work
 cycler @ file:///home/task_176606789349323/croot/cycler_1766067915143/work
@@ -9,6 +11,7 @@ executing @ file:///home/task_175706124557094/conda-bld/executing_1757061259817/
 filelock==3.29.0
 fonttools @ file:///home/task_178107556000308/croot/fonttools_1781075599836/work
 fsspec==2026.4.0
+idna==3.18
 ipykernel @ file:///home/task_177261241857786/croot/ipykernel_1772612454495/work
 ipython @ file:///home/task_178034859778506/croot/ipython_1780348824230/work
 ipython_pygments_lexers @ file:///croot/ipython_pygments_lexers_1744753235686/work
@@ -58,6 +61,7 @@ PyQt6==6.11.0
 PyQt6_sip @ file:///home/task_177582793952007/croot/pyqt-split_1775828360951/work/pyqt_sip
 python-dateutil @ file:///croot/python-dateutil_1716495738603/work
 pyzmq @ file:///home/task_176237559798588/conda-bld/pyzmq_1762375611039/work
+requests==2.34.2
 scikit-learn @ file:///home/task_178151407008061/croot/scikit-learn_1781530248671/work
 scipy @ file:///home/task_177627769554013/croot/scipy_1776277735967/work/dist/scipy-1.17.1-cp311-cp311-linux_x86_64.whl#sha256=095e3bbfe2fbd73f11c8355d4adddff7ef7f26d6644ba56298215411874d34da
 sip @ file:///home/task_177080690330752/croot/sip_1770807534460/work
@@ -67,10 +71,13 @@ sympy==1.13.1
 threadpoolctl @ file:///home/task_176436167871245/conda-bld/threadpoolctl_1764361726010/work
 torch==2.6.0+cu124
 torchaudio==2.6.0+cu124
+torchinfo==1.8.0
 torchvision==0.21.0+cu124
 tornado @ file:///home/task_177430341552759/croot/tornado_1774303628185/work
+tqdm==4.70.0
 traitlets @ file:///home/task_177874317050756/croot/traitlets_1778743199524/work
 triton==3.2.0
 typing_extensions @ file:///croot/typing_extensions_1756280817316/work
+urllib3==2.7.0
 wcwidth @ file:///home/task_176777914765410/croot/wcwidth_1767779170371/work
 wordcloud @ file:///home/task_176907361779488/croot/wordcloud_1769074251838/work
